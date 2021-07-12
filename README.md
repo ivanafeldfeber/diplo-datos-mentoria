@@ -42,8 +42,6 @@ En este link están los códigos de las preguntas así como sus posibles respues
 
 https://drive.google.com/file/d/164Pvkly8ysFdwENgPmEURBxyXLbYuoN_/view?usp=sharing
 
-Cabe aclarar que esta encuesta no tiene ningún tipo de pregunta abierta, son preguntas cerradas con respuestas limitadas y estandarizadas para que sea más fácil su análisis.
-
 
 #### Mentor: Gabriel Moyano
 
