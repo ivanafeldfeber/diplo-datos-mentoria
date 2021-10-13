@@ -47,5 +47,5 @@ https://drive.google.com/file/d/164Pvkly8ysFdwENgPmEURBxyXLbYuoN_/view?usp=shari
 
 #### Integrantes:
 - Susana Beatriz Araujo Furlan
-- Tammara Maggioni
+- Tamara Maggioni
 - Ivana Feldfeber
