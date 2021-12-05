@@ -46,6 +46,6 @@ https://drive.google.com/file/d/164Pvkly8ysFdwENgPmEURBxyXLbYuoN_/view?usp=shari
 #### Mentor: Gabriel Moyano
 
 #### Integrantes:
-- Susana Beatriz Araujo Furlan
-- Tamara Maggioni
-- Ivana Feldfeber
+- [Susana Beatriz Araujo Furlan](https://github.com/suaraujo)
+- [Tamara Maggioni](https://github.com/TamaraMaggioni)
+- [Ivana Feldfeber](https://github.com/ivanafeldfeber)
