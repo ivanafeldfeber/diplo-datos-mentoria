@@ -1,10 +1,15 @@
 # Mentoría de la Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones - UNC-FAMAF
 
 En este repositorio se encuentran las notebooks, informes y archivos utilizados para el espacio de Mentorías de la Diplomatura.
+
 A su vez puede encontrarse un archivo .pdf con el [Data Statement](https://github.com/ivanafeldfeber/diplo-datos-mentoria/blob/main/Data%20Statements%20Macroencuesta%20de%20Violencia%20contra%20la%20Mujer%202019%20(MVM).pdf) realizado a fines de comprender mejor el contexto donde surgieron los datos, su contenido y también para qué pueden ser utilizados y para qué no. El mismo fue elaborado por las integrantes de esta mentoría. 
 Pueden contactarnos por cualquier duda o comentario a:
+
+
 ivanafeldfeber@gmail.com
+
 sabaabp@gmail.com
+
 tamaramaggioni@gmail.com
 
 ## Análisis de datos sobre la violencia contra la mujer.
